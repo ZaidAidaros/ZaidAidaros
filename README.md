@@ -20,6 +20,7 @@ I am Zaid Aidaros, a dedicated Software Engineer with a strong foundation in Com
 - **Frameworks and Methodologies**:
   - Flutter
   - Vue js
+  - Express.js
   - .Net
 - **Languages**:
   - Python
@@ -37,17 +38,17 @@ I am Zaid Aidaros, a dedicated Software Engineer with a strong foundation in Com
    - [AlAkhbar](github.com/zaidaidaros/news)
 
 2. **Small Business Management System (SBMS)**
-   - **Tools**: .Net (Desktop App), SQL Server
+   - **Tech Stack**: .Net (Desktop App), SQL Server
    - Built a comprehensive system utilizing MVP Architectures to streamline operations for small businesses, supporting roles for admin, sellers, and purchasers.
    - [SBMS](github.com/zaidaidaros/SBMS)
 
 3. **Simple Note App**
-   - **Frameworks**: Next.js, Firebase
+   - **Tech Stack**: Next.js, Firebase
    - Created a user-friendly note-taking application with seamless online storage capabilities and Firebase authentication features.
    - [OnlineNotesApp](github.com/zaidaidaros/OnlineNotesApp)
 
 4. **Small Businesses Mobile App**
-   - **Technologies**: Flutter, GetX, SQLite
+   - **Tech Stack**: Flutter, GetX, SQLite
    - Developed a mobile application to assist individuals in managing and tracking their daily business activities effectively.
 
 ## Contact Information
