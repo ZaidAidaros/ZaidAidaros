@@ -22,15 +22,19 @@ I am Zaid Aidaros, a dedicated Software Engineer with a strong foundation in Com
   - Vue js
   - .Net
 - **Languages**:
-  - Python.  - JavaScript. - Dart.
-  - Java. - C#. - C++.
+  - Python
+  - JavaScript
+  - Dart
+  - Java
+  - C#
+  - C++
 
 ## Experience
 ### Notable Projects
 1. **Interactive News Web App**
    - **Tech Stack**: Vue.js, Express.js, Postgres Database with Sequelize ORM
    - Developed an interactive news web app with authentication features, multi-level access roles, and intuitive dashboards for efficient content management.
-   - <a hr=github.com/zaidaidaros/news />
+   - <a hr=github.com/zaidaidaros/news >github.com/zaidaidaros/news<a/>
 
 2. **Small Business Management System (SBMS)**
    - **Tools**: .Net (Desktop App), SQL Server
