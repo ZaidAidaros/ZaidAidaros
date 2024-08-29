@@ -35,17 +35,17 @@ I am Zaid Aidaros, a dedicated Software Engineer with a strong foundation in Com
 1. **Interactive News Web App**
    - **Tech Stack**: Vue.js, Express.js, Postgres Database with Sequelize ORM
    - Developed an interactive news web app with authentication features, multi-level access roles, and intuitive dashboards for efficient content management.
-   - [AlAkhbar](github.com/zaidaidaros/news)
+   - [AlAkhbar](https://github.com/zaidaidaros/news)
 
 2. **Small Business Management System (SBMS)**
    - **Tech Stack**: .Net (Desktop App), SQL Server
    - Built a comprehensive system utilizing MVP Architectures to streamline operations for small businesses, supporting roles for admin, sellers, and purchasers.
-   - [SBMS](github.com/zaidaidaros/SBMS)
+   - [SBMS](https://github.com/zaidaidaros/SBMS)
 
 3. **Simple Note App**
    - **Tech Stack**: Next.js, Firebase
    - Created a user-friendly note-taking application with seamless online storage capabilities and Firebase authentication features.
-   - [OnlineNotesApp](github.com/zaidaidaros/OnlineNotesApp)
+   - [OnlineNotesApp](https://github.com/zaidaidaros/OnlineNotesApp)
 
 4. **Small Businesses Mobile App**
    - **Tech Stack**: Flutter, GetX, SQLite
