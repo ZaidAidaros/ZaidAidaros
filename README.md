@@ -52,7 +52,6 @@ I am Zaid Aidaros, a dedicated Software Engineer with a strong foundation in Com
 
 ## Contact Information
 - **Email**: zaidaidaros.work@gmail.com
-- **Phone**: +967 775 283 579
 - **Location**: Yemen
 
 ## GitHub Profile
